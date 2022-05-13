@@ -1,5 +1,5 @@
 project: jacob-clemente/iniparser
-target: example
+target: parse
 
 cmds:
-  - cmd: /example @@
+  - cmd: /parse @@

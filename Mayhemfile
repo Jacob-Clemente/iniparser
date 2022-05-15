@@ -1,4 +1,4 @@
-project: jacob-clemente/iniparser
+project: iniparser
 target: parse
 
 cmds:
